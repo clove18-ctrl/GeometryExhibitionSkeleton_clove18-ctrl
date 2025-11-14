@@ -37,7 +37,7 @@ struct HomeView: View {
                 }
             }
             .padding()
-            .navigationTitle("Geometry Exhibition Demo")
+            .navigationTitle("Spades")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
